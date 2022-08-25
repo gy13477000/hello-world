@@ -15,6 +15,14 @@
             "symbol": "MTK",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+        },
+        {
+            "chainId": 5,
+            "address": "0xFEAbf4A381117f958507A28397431cD641Ca153C",
+            "name": "My Token2",
+            "symbol": "MTK2",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
         }
     ]
 }
