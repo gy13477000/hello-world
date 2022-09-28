@@ -29,7 +29,7 @@
             "address": "0x67290f9Aa77A2dACaD9Ee1BE483d589f8601178B",
             "name": "MOCK",
             "symbol": "MOCK",
-            "decimals": 18,
+            "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
         }
     ]
